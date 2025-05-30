@@ -7,9 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-micaels-projects-ee94a05b.vercel.app)
 
 </div>
-
----
 -->
+---
+
 ## 🧑‍💻 About Me
 
 I'm a software engineering student passionate about development and artificial intelligence. My journey started with mechatronics and evolved into software engineering, where I love exploring new technologies and building innovative solutions.
