@@ -4,9 +4,10 @@
 
 ### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🎓 Software Engineering Student
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-micaels-projects-ee94a05b.vercel.app)
+// [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]
+//(https://portfolio-micaels-projects-ee94a05b.vercel.app)
 
-</div>
+//</div>
 
 ---
 
