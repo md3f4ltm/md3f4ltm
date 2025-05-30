@@ -3,14 +3,13 @@
 # Hi there! 👋 I'm Micael
 
 ### 🚀 Full Stack Developer | 🤖 AI Enthusiast | 🎓 Software Engineering Student
+<!-- 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-micaels-projects-ee94a05b.vercel.app)
 
-// [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]
-//(https://portfolio-micaels-projects-ee94a05b.vercel.app)
-
-//</div>
+</div>
 
 ---
-
+-->
 ## 🧑‍💻 About Me
 
 I'm a software engineering student passionate about development and artificial intelligence. My journey started with mechatronics and evolved into software engineering, where I love exploring new technologies and building innovative solutions.
@@ -22,7 +21,7 @@ I'm a software engineering student passionate about development and artificial i
 - 🌱 Always learning and experimenting with new tech
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -36,7 +35,7 @@ I'm a software engineering student passionate about development and artificial i
 </div>
 
 ---
-
+-->
 <div align="center">
 
 **Thanks for visiting! Feel free to explore my repositories! 🤝**
