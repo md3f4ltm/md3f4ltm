@@ -17,7 +17,6 @@ I'm a software engineering student passionate about development and artificial i
 - 🎓 **2021-2023:** Completed CTeSP in Mechatronics at IPVC
 - 🎓 **2023-Present:** Currently pursuing Bachelor's in Software Engineering
 - 🤖 Passionate about AI and machine learning
-- 💻 Full-stack developer with a focus on modern web technologies
 - 🌱 Always learning and experimenting with new tech
 
 ---
